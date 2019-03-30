@@ -36,8 +36,9 @@
 ## 二进制构建步骤：
 #### 1、下载源代码文件夹：
 ```Bash
-git clone https://github.com/oneflyingfish/Class-Helper.git
-cd C:\Users\ASUS\Desktop\ClassHelper
+wget https://codeload.github.com/oneflyingfish/Class-Helper/zip/master #可通过浏览器下载
+unzip Class-Helper-master.zip   #可用其它方式解压
+cd ...\ClassHelper
 ```
 
 #### 2、构建Makefile：
