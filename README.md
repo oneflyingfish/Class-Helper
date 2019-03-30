@@ -36,7 +36,7 @@
 ## 二进制构建步骤：
 #### 1、下载源代码文件夹：
 ```Bash
-git clone 
+git clone https://github.com/oneflyingfish/Class-Helper.git
 cd C:\Users\ASUS\Desktop\ClassHelper
 ```
 
