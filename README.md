@@ -37,7 +37,7 @@
 #### 1、下载源代码文件夹：
 ```Bash
 wget https://codeload.github.com/oneflyingfish/Class-Helper/zip/master #可通过浏览器下载
-unzip Class-Helper-master.zip   #可用其它方式解压
+unzip Class-Helper-master.zip                                          #可用其它方式解压
 cd ...\ClassHelper
 ```
 
@@ -63,6 +63,6 @@ make all    #Windows环境make可用nmake替代
 #### 6、添加资源文件
 将Class-Helper文件夹下的"Icon文件夹"和"ClassInformation.db"拷贝到二进制文件所在目录即可  
 
-注：程序提供了releases版本下载，可前往[下载链接]()
+注：程序提供了releases版本下载，可前往[下载链接](https://github.com/oneflyingfish/Class-Helper/releases)
 
 最后，再次感谢西电廉虹老师的信任与支持！！
