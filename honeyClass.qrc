@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/honeyClass">
+        <file>Icon/form.ico</file>
+    </qresource>
+</RCC>
