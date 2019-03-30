@@ -61,7 +61,7 @@ make debug  #Windows环境make可用nmake替代
 make all    #Windows环境make可用nmake替代
 ```
 #### 6、添加资源文件
-将Class-Helper文件夹下的"Icon文件夹"和"ClassInformation.db"拷贝到二进制文件所在目录即可  
+将Class-Helper文件夹下的"Icon文件夹"和"ClassInformation.db"拷贝到二进制文件所在目录即可。若ClassInformation.db被篡改或不存在，可能引起程序重置！！
 
 注：程序提供了releases版本下载，可前往[下载链接](https://github.com/oneflyingfish/Class-Helper/releases)
 
